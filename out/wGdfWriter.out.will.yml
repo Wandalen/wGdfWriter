@@ -3,8 +3,8 @@ root:
   - wGdfWriter.out
 consistency:
   ../.ex.will.yml: &ref_0
-    hash: 259b69b78054732b4f91508976271e68
-    size: 1672
+    hash: 663b457f74e04bc0c749576e1a1984a1
+    size: 1673
   ../.im.will.yml: &ref_1
     hash: 4bd2ad8e081461ac0a9600e6aa2abea9
     size: 4662
@@ -151,9 +151,6 @@ module:
           - ../proto/Integration.test.s
           - ../proto/dwtools
           - ../proto/dwtools/Tools.s
-          - ../proto/dwtools/abase
-          - ../proto/dwtools/amid
-          - ../proto/dwtools/atop
     submodule:
       wTools:
         path: 'npm:///wTools'
@@ -1423,8 +1420,8 @@ module:
           - 'build::npm'
     consistency:
       ../.ex.will.yml:
-        hash: 259b69b78054732b4f91508976271e68
-        size: 1672
+        hash: 663b457f74e04bc0c749576e1a1984a1
+        size: 1673
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
