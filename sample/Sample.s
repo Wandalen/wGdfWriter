@@ -3,5 +3,5 @@ let _ = require( 'wgdfwriter' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
