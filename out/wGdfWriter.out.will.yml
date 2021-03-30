@@ -153,6 +153,8 @@ module:
         path:
           - ../proto
           - ../proto/Integration.test.ss
+          - ../proto/node_modules
+          - ../proto/node_modules/wgdfwriter
           - ../proto/wtools
           - ../proto/wtools/Tools.s
     submodule:
