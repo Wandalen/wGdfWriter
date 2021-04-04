@@ -1467,6 +1467,4 @@ module:
       ../.im.will.yml:
         hash: aa0a00290fce3ab2d4194262fcb1cc0d
         size: 4725
-      wGdfWriter.out.will.yml:
-        hash: 39f295f68fb20cff2e93447aad68a368
-        size: 37169
+      wGdfWriter.out.will.yml: *ref_0
