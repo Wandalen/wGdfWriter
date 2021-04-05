@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wGdfWriter/proto/wtools/Tools.s
-    - /pro/module/wGdfWriter/proto/node_modules/wgdfwriter
+    - proto/wtools/Tools.s
+    - proto/node_modules/wgdfwriter
 reflector:
   reflect.proto:
     inherit: predefined.*
